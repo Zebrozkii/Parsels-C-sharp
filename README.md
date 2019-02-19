@@ -25,7 +25,7 @@ _No known bugs_
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns. Please email me at sjullieb@gmail.com_
+_If you run into any issues or have questions, ideas or concerns. Please email at sjullieb@gmail.com_
 
 ## Technologies Used
 

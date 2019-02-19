@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/ParselShipping.Tests.deps.json
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/ParselShipping.Tests.runtimeconfig.json
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/ParselShipping.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/ParselShipping.Tests.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/ParselShipping.Tests.pdb
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/ParselShipping.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/bin/Debug/netcoreapp1.1/ParselShipping.pdb
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/obj/Debug/netcoreapp1.1/ParselShipping.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/obj/Debug/netcoreapp1.1/ParselShipping.Tests.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping.Tests/obj/Debug/netcoreapp1.1/ParselShipping.Tests.pdb

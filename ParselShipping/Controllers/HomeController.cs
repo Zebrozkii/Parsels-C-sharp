@@ -9,6 +9,7 @@ namespace ParselShipping.Controllers
     public ActionResult CreateParsel()
     {
       return View();
+      //return new EmptyResult();
     }
 
     [HttpPost("/display")]
