@@ -31,8 +31,7 @@ _If you run into any issues or have questions, ideas or concerns. Please email m
 
 * _C#_
 * _.NET Core_
-* _Mono_
-* _MSTest_
+* _ASP.NET Core MVC_
 
 ### License
 
