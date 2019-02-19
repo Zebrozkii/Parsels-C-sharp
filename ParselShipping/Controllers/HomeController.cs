@@ -17,7 +17,6 @@ namespace ParselShipping.Controllers
       if ((height == null) || (!width.HasValue) || (length == null) || (!weight.HasValue))
       {
         return RedirectToAction("CreateParsel");
-        // alert
       }
       else
       {
