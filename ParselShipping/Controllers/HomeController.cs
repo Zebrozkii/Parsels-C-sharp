@@ -12,10 +12,18 @@ namespace ParselShipping.Controllers
     }
 
     [HttpPost("/display")]
-    public ActionResult Index(int height, int width, int length, int weight)
+    public ActionResult Index(int? height, int? width, int? length, int? weight)
     {
-      Parsel newParsel = new Parsel(height, width, length, weight);
-      return View(newParsel);
+      if ((height == null) || (!width.HasValue) || (length == null) || (!weight.HasValue))
+      {
+        return RedirectToAction("CreateParsel");
+        // alert
+      }
+      else
+      {
+        Parsel newParsel = new Parsel(height.Value, width.Value, length.Value, weight.Value);
+        return View(newParsel);
+      }
     }
 
 
