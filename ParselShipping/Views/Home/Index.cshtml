@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Parsel shipping</title>
+  </head>
+  <body>
+    @using ParselShipping.Models;
+
+    <h1>You parsel</h1>
+
+    <p>Length: @Model.GetLength()</p>
+    <p>Width: @Model.GetWidth()</p>
+    <p>Height: @Model.GetHeight()</p>
+    <p>Weight: @Model.GetWeight()</p>
+
+    <h3>Price: @Model.CostToShip()</h3>
+
+    <a href="/">Check another parsel estimate.</a>
+  </body>
+</html>

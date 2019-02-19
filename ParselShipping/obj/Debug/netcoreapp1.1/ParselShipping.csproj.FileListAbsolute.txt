@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/bin/Debug/netcoreapp1.1/ParselShipping.deps.json
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/bin/Debug/netcoreapp1.1/ParselShipping.runtimeconfig.json
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/bin/Debug/netcoreapp1.1/ParselShipping.runtimeconfig.dev.json
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/obj/Debug/netcoreapp1.1/ParselShipping.AssemblyInfo.cs
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/bin/Debug/netcoreapp1.1/ParselShipping.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/bin/Debug/netcoreapp1.1/ParselShipping.pdb
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/obj/Debug/netcoreapp1.1/ParselShipping.dll
+/Users/Guest/Desktop/ParselShipping.Solution/ParselShipping/obj/Debug/netcoreapp1.1/ParselShipping.pdb
